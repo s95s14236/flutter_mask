@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325477464880",
+    "firebase_url": "https://flutter-order-5daff.firebaseio.com",
+    "project_id": "flutter-order-5daff",
+    "storage_bucket": "flutter-order-5daff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325477464880:android:580e5461e90900616726f5",
+        "android_client_info": {
+          "package_name": "com.steven.order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325477464880-54p4gkeohnh71msd75ju70l4mn0ekjg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEwWuetqchpHBYde8eRWOYUgZ3Pm4Qc7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325477464880-54p4gkeohnh71msd75ju70l4mn0ekjg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
